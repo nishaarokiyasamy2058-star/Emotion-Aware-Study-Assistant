@@ -24,7 +24,7 @@ It is designed for **students and learners** to help improve focus and study eff
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/YourUsername/Emotion-Aware-Study-Assistant.git
+git clone https://github.com/nishaarokiyasamy2058-star/Emotion-Aware-Study-Assistant.git
 2. Open the notebook Emotion_Aware_Study_Assistant.ipynb in Google Colab.
 3.If dataset is not present, the notebook will download it from Kaggle automatically.
 4.Run all cells sequentially:
